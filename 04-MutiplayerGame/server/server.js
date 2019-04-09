@@ -26,7 +26,5 @@ socket.on("disconnect",function(){
     console.log("client disconnect");
     playerCount--;
 }); 
-
-
-
+ 
 });
